@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    margin: 0;
+    padding: 0;
+}
+
+.black {
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+
+.white {
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+
+.row-white {
+    display: flex;
+    flex-direction: row;
+}
+
+.row-black {
+    display: flex;
+    flex-direction: row;
+}
